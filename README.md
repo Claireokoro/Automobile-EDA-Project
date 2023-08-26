@@ -2,31 +2,8 @@
 We call the process of studying a dataset and enumerating its key properties "exploratory data analysis." This type of descriptive analytics is used. 
 
 
-Creating a repository for your project is a great idea! Here's a suggested structure for your repository along with a placeholder for the README.md file:
 
 **Repository Name:** Automobile-EDA-Project
-
-**Structure:**
-```
-Automobile-EDA-Project/
-│
-├── data/                          # Directory to store the dataset
-│   └── automobile_data.csv        # Placeholder for the dataset
-│
-├── notebooks/                     # Directory for Jupyter notebooks
-│   ├── EDA_Notebook.ipynb         # Your EDA Jupyter notebook
-│   └── ...
-│
-├── images/                        # Directory to store images for documentation
-│   ├── scatterplot_engine_size_price.png     # Placeholder for the scatterplot image
-│   ├── boxplot_body_style_price.png         # Placeholder for the boxplot image
-│   ├── heatmap_body_style_price.png         # Placeholder for the heatmap image
-│   └── ...
-│
-└── README.md                      # Project README
-```
-
-**README.md Placeholder:**
 
 
 # Automobile EDA Project
@@ -39,12 +16,13 @@ Welcome to the Automobile EDA Project repository! This project involves explorat
 - [Notebooks](#notebooks)
 - [Visualizations](#visualizations)
 - [Findings](#findings)
+- [Conclusion: Important Variables]((#conclusion: important variables)
 
 ## Introduction
 In this project, I performed exploratory data analysis (EDA) on an automobile dataset to uncover insights and patterns within the data.
 
 ## Dataset
-The dataset used in this project contains both continuous numerical variables and categorical variables. The variables include:
+This data set contains information about autobiles which has 29 columns and 201 rows. The dataset used in this project contains both continuous numerical variables and categorical variables. The variables include:
 - Continuous Numerical Variables: Length, Width, Curb-weight, Engine-size, Horsepower, City-mpg, Highway-mpg, Wheel-base, Bore
 - Categorical Variables: Drive-wheels, Engine-location, Body-style
 
@@ -74,9 +52,6 @@ Feel free to explore the repository and notebook for a deeper understanding of t
 Remember to replace the placeholder images with actual images of your visualizations and findings. This README structure provides an organized and informative overview of your project.
 There are some data visualizations involved.
 
-# About the Dataset
-
-This data set contains information about autobiles which has 29 columns and 201 rows.
 
 # Conclusion: Important Variables
 
