@@ -16,7 +16,7 @@ Welcome to the Automobile EDA Project repository! This project involves explorat
 - [Notebooks](#notebooks)
 - [Visualizations](#visualizations)
 - [Findings](#findings)
-- [Conclusion: Important Variables]((#conclusion: important variables)
+- [Conclusion: Important Variables](#conclusion: important variables)
 
 ## Introduction
 In this project, I performed exploratory data analysis (EDA) on an automobile dataset to uncover insights and patterns within the data.
