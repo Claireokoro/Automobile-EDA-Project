@@ -3,8 +3,6 @@ We call the process of studying a dataset and enumerating its key properties "ex
 
 
 
-**Repository Name:** Automobile-EDA-Project
-
 
 # Automobile EDA Project
 
