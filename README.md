@@ -1,12 +1,6 @@
-# Exploratory Data Analysis
-We call the process of studying a dataset and enumerating its key properties "exploratory data analysis." This type of descriptive analytics is used. 
-
-
-
-
 # Automobile EDA Project
 
-Welcome to the Automobile EDA Project repository! This project involves exploratory data analysis of an automobile dataset using Python. Below is an overview of the project content:
+Welcome to the Automobile EDA Project repository! We call the process of studying a dataset and enumerating its key properties "exploratory data analysis." This type of descriptive analytics is used. This project involves exploratory data analysis of an automobile dataset using Python. Below is an overview of the project content:
 
 ## Table of Contents
 - [Introduction](#introduction)
