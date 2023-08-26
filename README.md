@@ -32,11 +32,14 @@ The exploratory data analysis process is documented in the Jupyter notebook `EDA
 ## Visualizations
 I utilized various visualization techniques to better understand the relationships within the dataset:
 - Scatterplot of Engine-size and Price
-  ![Scatterplot Engine-size vs Price](images/scatterplot_engine_size_price.png)
+  ![Scatterplot Engine-size vs Price](<img width="632" alt="Screenshot 2023-08-26 at 10 01 21 AM" src="https://github.com/Claireokoro/Exploratory_Data_Analysis/assets/122834264/4d2f3028-4155-4479-9fb6-a8f3dbb435c2">
+)
 - Boxplot of Body-style and Price
-  ![Boxplot Body-style vs Price](images/boxplot_body_style_price.png)
+  ![Boxplot Body-style vs Price](<img width="631" alt="Screenshot 2023-08-26 at 10 01 40 AM" src="https://github.com/Claireokoro/Exploratory_Data_Analysis/assets/122834264/aa1b7c64-2b47-4f55-af0c-e43ea3351ef1">
+)
 - Heatmap of Correlations between Variables
-  ![Heatmap Correlations](images/heatmap_body_style_price.png)
+  ![Heatmap Correlations](<img width="611" alt="Screenshot 2023-08-26 at 10 02 47 AM" src="https://github.com/Claireokoro/Exploratory_Data_Analysis/assets/122834264/e184b175-d68c-48fa-91a8-530403f6921e">
+)
 
 ## Findings
 From the analysis, I discovered:
