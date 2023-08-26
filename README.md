@@ -53,7 +53,7 @@ Remember to replace the placeholder images with actual images of your visualizat
 There are some data visualizations involved.
 
 
-# Conclusion: Important Variables
+## Conclusion: Important Variables
 
 <p>We now have a better idea of what our data looks like and which variables are important to take into account when predicting the car price. We have narrowed it down to the following variables:</p>
 
