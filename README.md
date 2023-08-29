@@ -5,10 +5,9 @@ Welcome to the Automobile EDA Project repository! We call the process of studyin
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Notebooks](#notebooks)
 - [Visualizations](#visualizations)
 - [Findings](#findings)
-- [Conclusion: Important Variables](#conclusion: important variables)
+- [Conclusion](#conclusion)
 
 ## Introduction
 In this project, I performed exploratory data analysis (EDA) on an automobile dataset to uncover insights and patterns within the data.
@@ -17,9 +16,6 @@ In this project, I performed exploratory data analysis (EDA) on an automobile da
 This data set contains information about autobiles which has 29 columns and 201 rows. The dataset used in this project contains both continuous numerical variables and categorical variables. The variables include:
 - Continuous Numerical Variables: Length, Width, Curb-weight, Engine-size, Horsepower, City-mpg, Highway-mpg, Wheel-base, Bore
 - Categorical Variables: Drive-wheels, Engine-location, Body-style
-
-## Notebooks
-The exploratory data analysis process is documented in the Jupyter notebook `EDA_Notebook.ipynb` located in the [notebooks](notebooks/) directory.
 
 ## Visualizations
 I utilized various visualization techniques to better understand the relationships within the dataset:
@@ -48,7 +44,7 @@ Remember to replace the placeholder images with actual images of your visualizat
 There are some data visualizations involved.
 
 
-## Conclusion: Important Variables
+## Conclusion
 
 <p>We now have a better idea of what our data looks like and which variables are important to take into account when predicting the car price. We have narrowed it down to the following variables:</p>
 
